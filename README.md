@@ -39,9 +39,10 @@ You can find me too on [![LinkedIn][1.0]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=assembly-codes" />
 </a>
 
+<!-- 
 ### HTB Badge
 
-![HTB Badge](http://www.hackthebox.eu/badge/image/176949)
+![HTB Badge](http://www.hackthebox.eu/badge/image/176949) -->
 
 <!--
 **ndanilo/ndanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
