@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+### Hi there ![Greeting](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ⚡ Fun fact: ...
 
