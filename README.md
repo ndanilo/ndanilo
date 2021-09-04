@@ -33,7 +33,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 ![](https://img.shields.io/badge/Offensive-Network-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Password_Cracking-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Broken_Authentication-informationalx?style=flat&color=bd3939)
-![](https://img.shields.io/badge/Offensive-OSInt-informationalx?style=flat&logo=kalilinux&color=bd3939)
+![](https://img.shields.io/badge/Offensive-OSInt-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Command_Injection-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Linux_Buffer_Overflows-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Windows_Buffer_Overflows-informationalx?style=flat&color=bd3939)
