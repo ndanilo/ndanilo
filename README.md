@@ -47,10 +47,10 @@ You can find me too on [![LinkedIn][1.0]][1].
 ### 📈 Github Stats
 
 <a href="https://github.com/ndanilo/ndanilo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo&hide=typscript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo&hide=typescript,html,jupyter%20notebook,visual%20basic%20.net&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/ndanilo/ndanilo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndanilo&show_icons=true&line_height=53&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=prs,issues,contribs" alt="Danilo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndanilo&show_icons=true&line_height=80&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=prs,issues,contribs" alt="Danilo's GitHub Stats" />
 </a>
 
 ### 🔥 Current Interests
