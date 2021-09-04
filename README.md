@@ -14,7 +14,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informationalx?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-informationalx?style=flat&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Code-CSharp-informationalx?style=flat&logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-informationalx?style=flat&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-informationalx?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-NodeJs-informationalx?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-Assembly-informationalx?style=flat&logo=linuxfoundation&logoColor=white)
