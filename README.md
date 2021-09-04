@@ -26,17 +26,40 @@ You can find me too on [![LinkedIn][1.0]][1].
 ![](https://img.shields.io/badge/CI-Docker-informationalx?style=flat&logo=appveyor)
 ![](https://img.shields.io/badge/CI-Kubernetes-informationalx?style=flat&logo=appveyor)
 
+### 🛡️ Security Knowledge
+
+![](https://img.shields.io/badge/Offensive-OWASP-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-CVE-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Network-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Password_Cracking-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Broken_Authentication-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-OSInt-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Command_Injection-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Linux_Buffer_Overflows-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Windows_Buffer_Overflows-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Active_Directory_LDAP-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Linux_Privilege_Escalation-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Windows_Privilege_Escalation-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Traffic_Analysis-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Exploit_Development-informationalx?style=flat&logo=appveyor&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Reverse_Engineering-informationalx?style=flat&logo=appveyor&color=bd3939)
+
 ### 📈 Github Stats
 
-![ndanilo GitHub stats](https://github-readme-stats.vercel.app/api?username=ndanilo&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs) 
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndanilo&hide=typscript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ndanilo&show_icons=true&line_height=53&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=prs,issues,contribs" alt="Danilo's GitHub Stats" />
+</a>
 
 ### 🔥 Current Interests
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=python-code-samples" />
+<a href="https://github.com/ndanilo/ndanilo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=python-code-samples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=assembly-codes" />
+<a href="https://github.com/ndanilo/ndanilo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=assembly-codes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- 
