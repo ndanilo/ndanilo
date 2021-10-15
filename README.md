@@ -22,6 +22,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 ![](https://img.shields.io/badge/Code-C-informationalx?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Code-C%2b%2b-informationalx?style=flat&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Code-AngularJs-informationalx?style=flat&logo=angularjs&logoColor=white)
+![](https://img.shields.io/badge/Code-VueJs-informationalx?style=flat&logo=vuedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Code-Javascript-informationalx?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/CI-Docker-informationalx?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/CI-Kubernetes-informationalx?style=flat&logo=kubernetes&logoColor=white)
