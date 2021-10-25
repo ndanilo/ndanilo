@@ -56,10 +56,10 @@ You can find me too on [![LinkedIn][1.0]][1].
 
 ### 🔥 Current Interests
 
-<a href="https://github.com/ndanilo/ndanilo">
+<a href="https://github.com/ndanilo/python-code-samples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=python-code-samples&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/ndanilo/ndanilo">
+<a href="https://github.com/ndanilo/assembly-codes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=assembly-codes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
