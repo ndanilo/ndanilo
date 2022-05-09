@@ -4,10 +4,6 @@
 
 You can find me too on [![LinkedIn][1.0]][1].
 
-<a href="https://app.hackthebox.com/profile/176949">
-  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-profile.png" width="300" height="80" alt="Hack The Box">
-</a>
-
 <!-- Icons -->
 
 [1.0]: https://github.com/ndanilo/ndanilo/raw/master/linkedin16-black.png (linkedin icon without padding)
