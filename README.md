@@ -63,6 +63,12 @@ You can find me too on [![LinkedIn][1.0]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndanilo&repo=assembly-codes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### ⚡ Hack The Box Stats
+
+<a href="https://app.hackthebox.com/profile/176949">
+  <img src="http://www.hackthebox.eu/badge/image/176949" alt="Hack The Box">
+</a>
+
 <!-- 
 ### HTB Badge
 
