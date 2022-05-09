@@ -66,7 +66,15 @@ You can find me too on [![LinkedIn][1.0]][1].
 ### ⚡ Hack The Box Stats
 
 <a href="https://app.hackthebox.com/profile/176949">
-  <img src="http://www.hackthebox.eu/badge/image/176949" alt="Hack The Box">
+  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-profile.png" width="395" height="110" alt="Hack The Box">
+</a>
+
+<a href="https://app.hackthebox.com/profile/176949">
+  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-graph.png" alt="Hack The Box">
+</a>
+
+<a href="https://app.hackthebox.com/profile/176949">
+  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-dante-complete.png" alt="Hack The Box">
 </a>
 
 <!-- 
