@@ -8,7 +8,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 
 [1.0]: https://github.com/ndanilo/ndanilo/raw/master/linkedin16-black.png (linkedin icon without padding)
 
-[1]: https://www.linkedin.com/in/danilo-novais-02b959125
+[1]: https://www.linkedin.com/in/ndanilo-software-enginner/
 
 
 ### 🔧 Technologies & Tools
