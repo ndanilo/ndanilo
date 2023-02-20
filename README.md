@@ -36,14 +36,17 @@ You can find me too on [![LinkedIn][1.0]][1].
 ![](https://img.shields.io/badge/Offensive-Broken_Authentication-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-OSInt-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Command_Injection-informationalx?style=flat&color=bd3939)
+![](https://img.shields.io/badge/Offensive-NoSQL_Injection-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Linux_Buffer_Overflows-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Windows_Buffer_Overflows-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Active_Directory_LDAP-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Linux_Privilege_Escalation-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Windows_Privilege_Escalation-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Traffic_Analysis-informationalx?style=flat&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Deserialization_Attacks-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Exploit_Development-informationalx?style=flat&color=bd3939)
 ![](https://img.shields.io/badge/Offensive-Reverse_Engineering-informationalx?style=flat&color=bd3939)
+![](https://img.shields.io/badge/Offensive-Penetration_Testing-informationalx?style=flat&color=bd3939)
 
 ### 📈 Github Stats
 
