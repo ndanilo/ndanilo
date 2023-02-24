@@ -77,7 +77,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 </a>
 
 <a href="https://app.hackthebox.com/profile/176949">
-  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-dante-complete.png" alt="Hack The Box">
+  <img src="https://raw.githubusercontent.com/ndanilo/images/master/dante-intermediate.png" alt="Hack The Box">
 </a>
 
 <!-- 
