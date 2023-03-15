@@ -69,7 +69,7 @@ You can find me too on [![LinkedIn][1.0]][1].
 ### ⚡ Hack The Box Stats
 
 <a href="https://app.hackthebox.com/profile/176949">
-  <img src="https://raw.githubusercontent.com/ndanilo/images/master/htb-hackranking.png" alt="Hack The Box">
+  <img src="https://raw.githubusercontent.com/ndanilo/images/master/phacker-ranking.png" alt="Hack The Box">
 </a>
 
 <a href="https://app.hackthebox.com/profile/176949">
